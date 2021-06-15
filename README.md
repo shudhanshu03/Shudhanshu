@@ -8,8 +8,7 @@ I'm a 2nd year undergrad 👨‍💻 from DSI, Bangalore(India), who is passiona
 
  <img align="right" alt="GIF" src="https://blog.cloudlayer.io/content/images/size/w2000/2020/12/coding-freak.gif" width="400px" />
 
- Current Status
-
+ 
 - 👨‍💻 I am a MERN Stack Web Developer.<br>
 - 💻 Currently Working on my Problem Solving Skills and Contributing to Open Source.<br>
 - 📈 My future interests are :- Cloud Computing , React Native <br>
