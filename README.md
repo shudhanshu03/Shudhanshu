@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm a 2nd yr undergrad🙍 from DSI, Bangalore(India), who is passionate about technologies💻 and obsessed with the idea of improving and exploring stuffs in tech field🚀.
+I'm a 2nd year undergrad🙍 from DSI, Bangalore(India), who is passionate about learning tech💻 Stuffs and works to use that in real world scenario  .
 
  <img align="right" alt="GIF" src="https://blog.cloudlayer.io/content/images/size/w2000/2020/12/coding-freak.gif" width="400px" />
 
