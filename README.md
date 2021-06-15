@@ -32,8 +32,7 @@ I'm a 2nd yr undergrad🙍 from DSI, Bangalore(India), who is passionate about t
 <a href="https://www.instagram.com/shudhanshu_03/">
   <img align="left" alt="Aakansha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-
+<br>
 
 
 **Tech Stacks :**  
