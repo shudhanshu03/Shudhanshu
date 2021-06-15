@@ -6,7 +6,7 @@
 
 I'm a 2rd yr undergrad🙍 from DSI, Bangalore(India), who is passionate about technologies💻 and obsessed with the idea of improving and exploring stuffs in tech field🚀.
 
- <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.cloudlayer.io%2Fconvert-html-to-pdf-for-free%2F&psig=AOvVaw2a4gy20HlkaKYZU5PjeuJQ&ust=1623870783246000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjhip-smvECFQAAAAAdAAAAABBM" width="400px" />
+ <img align="right" alt="GIF" src="https://blog.cloudlayer.io/content/images/size/w2000/2020/12/coding-freak.gif" width="400px" />
 
  Current Status
 
