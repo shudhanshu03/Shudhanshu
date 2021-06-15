@@ -25,6 +25,11 @@ I'm a 2rd yr undergrad🙍 from DSI, Bangalore(India), who is passionate about t
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
 
+<a href="https://www.instagram.com/shudhanshu_03/">
+  <img align="left" alt="Aakansha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shudhanshu03.Shudhanshu)
 
 
@@ -40,4 +45,4 @@ I'm a 2rd yr undergrad🙍 from DSI, Bangalore(India), who is passionate about t
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 **Github Stats:**  
-![SHudhanshu's github stats](https://github-readme-stats.vercel.app/api?username=shudhanshu03&theme=white-green&show_icons=true&hide_border=true)
+![Shudhanshu's github stats](https://github-readme-stats.vercel.app/api?username=shudhanshu03&theme=white-green&show_icons=true&hide_border=true)
