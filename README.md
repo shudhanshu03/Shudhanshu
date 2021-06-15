@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm a 2rd yr undergrad🙍 from DSI, Bangalore(India), who is passionate about technologies💻 and obsessed with the idea of improving and exploring stuffs in tech field🚀.
+I'm a 2nd yr undergrad🙍 from DSI, Bangalore(India), who is passionate about technologies💻 and obsessed with the idea of improving and exploring stuffs in tech field🚀.
 
  <img align="right" alt="GIF" src="https://blog.cloudlayer.io/content/images/size/w2000/2020/12/coding-freak.gif" width="400px" />
 
@@ -14,6 +14,10 @@ I'm a 2rd yr undergrad🙍 from DSI, Bangalore(India), who is passionate about t
 - 💻 Currently Working on my Problem Solving Skills and Contributing to Open Source.<br>
 - 📈 My future interests are :- Cloud Computing , React Native <br>
 - 📫 How to reach me : sudhanshu03062002@gmail.com <br>
+- ⚡ Real fact: Hard work pays off
+
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=shudhanshu03.Shudhanshu)
 
 <a href="sudhanshu03062002@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
@@ -30,7 +34,6 @@ I'm a 2rd yr undergrad🙍 from DSI, Bangalore(India), who is passionate about t
 </a>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shudhanshu03.Shudhanshu)
 
 
 **Tech Stacks :**  
