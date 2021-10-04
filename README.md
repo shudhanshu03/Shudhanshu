@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm a pre-final student 👨‍💻 from DSI, Bangalore(India), who is passionate about learning tech💻 Stuffs .
+I'm a pre-final year student 👨‍💻 from DSI, Bangalore(India), who is passionate about learning tech💻 Stuffs .
 
  <img align="right" alt="GIF" src="https://blog.cloudlayer.io/content/images/size/w2000/2020/12/coding-freak.gif" width="400px" />
 
