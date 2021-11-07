@@ -16,7 +16,7 @@ I'm a pre-final year student 👨‍💻 from DSI, Bangalore(India), who is pass
 - ⚡ Real fact: Hard work pays off
 
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=shudhanshu03.Shudhanshu)
+![](https://komarev.com/ghpvc/?username=shudhanshu03&color=green)
 
 <a href="sudhanshu03062002@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
