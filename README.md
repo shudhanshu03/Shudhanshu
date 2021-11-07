@@ -21,7 +21,7 @@ I'm a pre-final year student 👨‍💻 from DSI, Bangalore(India), who is pass
 <a href="sudhanshu03062002@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<a href="https://www.codechef.com/users/shudhanshu_03">
+<a href="https://www.codechef.com/users/lazy_venom">
   <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codechef.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shudhanshu-ranjan-4725481a2/">
